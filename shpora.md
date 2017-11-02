@@ -1,4 +1,5 @@
 git checkout master - переключились на ветку мастер
+git checkout -b new  - создали новую ветку
 git add index.php - добавиди файл index.php
 git commit -m "Добавили индекс" - Добавили комит
 git push origen master - Добавили на githab в ветку мастер
