@@ -6,6 +6,6 @@
  <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-<h3>привет</h3>
+<h3>привет2</h3>
 </body>
 </html>
